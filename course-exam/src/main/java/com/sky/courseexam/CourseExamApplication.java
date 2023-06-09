@@ -1,13 +1,13 @@
-package com.course2.course2;
+package com.sky.courseexam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Course2Application {
+public class CourseExamApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Course2Application.class, args);
+		SpringApplication.run(CourseExamApplication.class, args);
 	}
 
 }
