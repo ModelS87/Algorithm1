@@ -1,13 +1,13 @@
-package com.sky.algorithm1;
+package com.course2.course2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Algorithm1Application {
+public class Course2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Algorithm1Application.class, args);
+		SpringApplication.run(Course2Application.class, args);
 	}
 
 }
